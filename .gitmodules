@@ -7,3 +7,15 @@
 [submodule "kicad/KiCad-SSD1306-128x64"]
 	path = kicad/KiCad-SSD1306-128x64
 	url = https://github.com/pforrmi/KiCad-SSD1306-128x64.git
+[submodule "kicad/tp4056"]
+	path = kicad/tp4056
+	url = https://github.com/alltheworld/tp4056.git
+[submodule "kicad/kicad-keyboard-parts.pretty"]
+	path = kicad/kicad-keyboard-parts.pretty
+	url = https://github.com/ebastler/kicad-keyboard-parts.pretty.git
+[submodule "kicad/random-keyboard-parts.pretty"]
+	path = kicad/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
+[submodule "kicad/MX_Alps_Hybrid.pretty"]
+	path = kicad/MX_Alps_Hybrid.pretty
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.pretty
